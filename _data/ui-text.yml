@@ -1278,17 +1278,17 @@ hu-HU:
 # Romanian
 # -----------------
 ro: &DEFAULT_RO
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
+  skip_links                 : "Sari peste"
+  skip_primary_nav           : "Mergi la meniul principal"
+  skip_content               : "Mergi la continut"
+  skip_footer                : "Mergi la subsol"
   page                       : "Pagina"
   pagination_previous        : "Anterior"
   pagination_next            : "Urmator"
   breadcrumb_home_label      : "Acasa"
   breadcrumb_separator       : "/"
   menu_label                 : "Comuta meniul"
-  search_label               :
+  search_label               : "Comuta la cautare"
   toc_label                  : "Pe aceasta pagina"
   ext_link_label             : "Link direct"
   less_than                  : "mai putin de"
@@ -1320,9 +1320,9 @@ ro: &DEFAULT_RO
   comment_success_msg        : "Multumesc pentru comentariu! Va aparea pe site în momentul în care va fi aprobat."
   comment_error_msg          : "Scuze, este o problema cu comentariul tau. Asigura-te că toate campurile obligatorii au fost completate si încearca din nou."
   loading_label              : "Se încarca..."
-  search_label_text          :
+  search_label_text          : "Introduceti termenii de cautare"
   search_placeholder_text    : "Cauta ceva..."
-  search_algolia_no_results  :
+  search_algolia_no_results  : "Nu sunt rezultate la aceasta cautare"
   results_found              : "Rezultate gasite"
   back_to_top                : "Inapoi la inceputul paginii"
 ro-RO:

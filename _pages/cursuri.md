@@ -1,5 +1,5 @@
 ---
 layout: splash
 author_profile: false
-permalink: /courses/
+permalink: /cursuri/
 ---

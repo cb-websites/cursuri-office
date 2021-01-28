@@ -3,8 +3,8 @@ main:
   - title: "Cursuri"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Despre mine"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Blog"
-    url: /year-archive/
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Contact"
     url: /collection-archive/

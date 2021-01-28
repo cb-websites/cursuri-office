@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Cursuri"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Despre mine"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Blog"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Contact"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/

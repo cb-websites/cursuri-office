@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Cursuri"
-    url: /courses/
+    url: /cursuriu/
   - title: "Despre mine"
-    url: /about/
+    url: /despre/
   - title: "Blog"
     url: /blog/
   - title: "Contact"

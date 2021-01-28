@@ -16,7 +16,7 @@ permalink: /contact/
           <hr>
           <div class="form-group mt-3">
             <label class="mr-2">Mesaj:</label>
-            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Mesajul Dvs. aici" required="required">
+            <input type="textarea" name="name" class="form-control" id="exampleInputName" placeholder="Mesajul Dvs. aici" required="required">
           </div>
           <hr>
           <button type="submit" class="btn btn-primary">Submit</button>

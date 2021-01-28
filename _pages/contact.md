@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div id="contactForm">
-<h3>Lasati un mesaj si voi reveni in cel mai scurt timp posibil cu un raspuns</h3>
+<h3>Pentru orice informatii, lasati un mesaj completand formularul de mai jos</h3>
 <form action="https://getform.io/f/23d18137-89d5-4eb5-bd6b-829cf85eb8b4" method="POST">
 
   <label for="name">Nume</label>

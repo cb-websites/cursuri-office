@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Cursuri"
-    url: /courses/
+    url: /cursuri/
   - title: "Despre mine"
     url: /about/
   - title: "Blog"

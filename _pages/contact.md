@@ -15,7 +15,7 @@ permalink: /contact/
   <input type="email" name="email">
   <br>
   <label for="message">Mesaj</label>  
-  <input type="textarea" name="message">
+  <textarea type="textarea" name="message">
   <button type="submit">Send</button>
 
 </form>

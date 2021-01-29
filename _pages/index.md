@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/teacher.png
     alt: "Groups"
     title: "Individual sau pe grupe"
-    excerpt: "Sesiunile de formare pot fi tinute atat individual, cat si pe grupe de studiu. Totul tine de preferintele tale."
+    excerpt: "Sesiunile de formare pot fi tinute atat individual, cat si pe grupe de studiu. Totul tine de cum te simti mai confortabil."
     url: "/docs/license/"  
 ---
 

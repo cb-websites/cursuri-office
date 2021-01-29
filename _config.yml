@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Calin B."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. 
+  bio              : "Inginer software si trainer cu mai bine de 14 ani de experienta pe diverse industrii."
   location         : "Arad, RO"
   email            :
   links:

@@ -8,3 +8,20 @@ main:
     url: /blog/
   - title: "Contact"
     url: /contact/
+
+cursuri:
+  - title: "Cursuri"
+    children:
+      -title: "MS Office"
+      url: /cursuri/
+      -title: "Word - Avansat"
+      url: /cursuri/
+      -title: "Excel - Avansat"
+      url: /cursuri/
+        
+  - title: "Alte informatii"
+    children:
+      -title: "Cum se desfasoara un curs"
+      url: /cursuri/
+      -title: "Ce pregatesc pentru curs"
+      url: /cursuri/

@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/excel.jpg
-  actions:
-    - label: "<i class='fas fa-info-circle'></i> Afla mai multe"
-      url: "/cursuri/"
 excerpt: >
   Avanseaza-ti cariera cu aceste aptitutidni esentiale.<br />
 feature_row:

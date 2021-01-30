@@ -20,8 +20,8 @@ cursuri_nav:
       url: /cursuri/
         
   - title: "Alte informatii"
-    children:
-      -title: "Cum se desfasoara un curs"
-      url: /cursuri/
-      -title: "Ce pregatesc pentru curs"
-      url: /cursuri/
+      children:
+        -title: "Cum se desfasoara un curs"
+        url: /cursuri/
+        -title: "Ce pregatesc pentru curs"
+        url: /cursuri/

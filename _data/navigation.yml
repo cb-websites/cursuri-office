@@ -21,7 +21,7 @@ cursuri_nav:
         
   - title: "Alte informatii"
     children:
-      -title: "Cum se desfasoara un curs"
-      url: /blog/
-      -title: "Ce pregatesc pentru curs"
-      url: /blog/
+      - title: "Cum se desfasoara un curs"
+        url: /blog/
+      - title: "Ce pregatesc pentru curs"
+        url: /blog/

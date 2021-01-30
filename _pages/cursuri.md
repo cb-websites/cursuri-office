@@ -3,5 +3,5 @@ layout: splash
 author_profile: false
 permalink: /cursuri/
 sidebar:
-  nav: "cursuri"
+  nav: "cursuri_nav"
 ---

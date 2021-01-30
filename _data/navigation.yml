@@ -12,12 +12,12 @@ main:
 cursuri_nav:
   - title: "Cursuri"
     children:
-      -title: "MS Office"
-      url: /
-      -title: "Word - Avansat"
-      url: /despre/
-      -title: "Excel - Avansat"
-      url: /contact/
+      - title: "MS Office"
+        url: /
+      - title: "Word - Avansat"
+        url: /despre/
+      - title: "Excel - Avansat"
+        url: /contact/
         
   - title: "Alte informatii"
     children:

@@ -9,7 +9,7 @@ main:
   - title: "Contact"
     url: /contact/
 
-cursuri:
+cursuri_nav:
   - title: "Cursuri"
     children:
       -title: "MS Office"

@@ -20,8 +20,8 @@ cursuri_nav:
       url: /contact/
         
   - title: "Alte informatii"
-      children:
-        -title: "Cum se desfasoara un curs"
-        url: /blog/
-        -title: "Ce pregatesc pentru curs"
-        url: /blog/
+    children:
+      -title: "Cum se desfasoara un curs"
+      url: /blog/
+      -title: "Ce pregatesc pentru curs"
+      url: /blog/

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ro-RO"
-title                    : "Invata Office"
+title                    : "Invata-Office"
 title_separator          : "-"
 subtitle                 : "Word, Excel, PowerPoint si Outlook"
 name                     : "Invata Office"

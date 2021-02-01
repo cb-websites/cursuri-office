@@ -9,23 +9,6 @@ main:
   - title: "Contact"
     url: /contact/
 
-cursuri_nav:
-  - title: "Cursuri"
-    children:
-      - title: "MS Office"
-        url: /
-      - title: "Word - Avansat"
-        url: /despre/
-      - title: "Excel - Avansat"
-        url: /contact/
-        
-  - title: "Alte informatii"
-    children:
-      - title: "Cum se desfasoara un curs"
-        url: /blog/
-      - title: "Ce pregatesc pentru curs"
-        url: /blog/
-
 cursuri-nav:
   - title: "Cursuri"
     children:

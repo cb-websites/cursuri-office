@@ -25,3 +25,19 @@ cursuri_nav:
         url: /blog/
       - title: "Ce pregatesc pentru curs"
         url: /blog/
+
+cursuri-nav:
+  - title: "Cursuri"
+    children:
+      - title: "MS Office"
+        url: /
+      - title: "Word - Avansat"
+        url: /
+      - title: "Excel - Avansat"
+        url: /
+  - title: "Alte informatii"
+    children:
+      - title: "Cum se desfasoara un curs"
+        url: /
+      - title: "Cum ma pregatesc pentru un curs"
+        url: /

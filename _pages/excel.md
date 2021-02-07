@@ -18,7 +18,7 @@ Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat i
 
 Durata acestui curs este de aproximativ 3 ore si include atat parte de prezentare practica, cat si exercitii. 
 
-
+<br>
 
 **EXCEL AVANSAT - FUNCTII**
 
@@ -34,7 +34,7 @@ Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat i
 
 Durata acestui curs depinde exigentele beneficiarilor si se stabileste in prealabil cu acestia.
 
-
+<br>
 
 **EXCEL AVANSAT - VBA**
 
@@ -42,7 +42,7 @@ Acest curs se adreseaza persoanelor care vor sa invete cum sa dezvolte functiona
 
 Durata depinde de obiectivele de invatare ale fiecarui cursant deci se va stabili de comun acord cu acesta.
 
-
+<br>
 
 **WORKSHOP EXCEL**
 

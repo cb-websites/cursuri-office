@@ -5,7 +5,7 @@ permalink: /cursuri/office/
 sidebar:
   nav: cursuri-nav
 ---
-### Microsoft Office
+*** MICROSOFT OFFICE ***
 
 Scopul acestui curs este de a ajuta utilizatoriii sa dobandeasca cunostinte de nivel mediu, mai mult decat suficient, pentru lucrul de zi cu zi cu aplicatiile din pachetul Microsoft Office 365 si contine:
 

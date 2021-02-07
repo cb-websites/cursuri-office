@@ -21,4 +21,4 @@ cursuri-nav:
   - title: "Informatii utile"
     children:
       - title: "Cum se desfasoara un curs"
-        url: /
+        url: /info/

@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/excel.jpg
   actions:
   - label: "<i class='fas fa-chalckboard-teacher'></i> Mergi la cursuri"
-    url: "/cursuri/"
+    url: "/cursuri/office/"
 excerpt: >
   Avanseaza-ti cariera cu aceste aptitutidni esentiale.<br />
 feature_row:

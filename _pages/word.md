@@ -5,7 +5,7 @@ permalink: /cursuri/word/
 sidebar:
   nav: cursuri-nav
 ---
-**WORD - AVANSAT**
+**WORD AVANSAT**
 
 Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat in cursul introductiv aprofundand functionalitatile avansate ale procesorului de text Word si trateaza urmatoarele subiecte:
 * Page breaks

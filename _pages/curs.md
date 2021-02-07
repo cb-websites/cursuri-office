@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /cursuri/info/
+permalink: /cursuri/curs/
 sidebar:
   nav: cursuri-nav
 ---

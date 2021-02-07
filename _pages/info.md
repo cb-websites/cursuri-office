@@ -5,6 +5,7 @@ permalink: /cursuri/info/
 sidebar:
   nav: cursuri-nav
 ---
+
 **Informatii utile**
 
 * Toate sesiunile de formare se vor desfasura online prin intermediul Google Meet. Daca nu sunteti familiarizati cu aceasta aplicatie, va recomand sa urmariti un scurt ghid [aici](https://www.youtube.com/watch?v=kMw435EgMfM).

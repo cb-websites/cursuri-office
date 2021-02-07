@@ -21,6 +21,6 @@ cursuri-nav:
   - title: "Alte informatii"
     children:
       - title: "Cum sa particip la un curs"
-        url: /curs/
+        url: /cursuri/curs/
       - title: "Informatii utile"
-        url: /info/
+        url: /cursuri/info/

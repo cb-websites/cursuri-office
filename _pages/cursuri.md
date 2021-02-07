@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /cursuri/
+permalink: /cursuri/office/
 sidebar:
   nav: cursuri-nav
 ---
@@ -22,6 +22,7 @@ Scopul acestui curs este de a ajuta utilizatoriii sa dobandeasca cunostinte de n
 * Comentarii
 * Alte functionalitati si instrumente utile
 
+
 **Excel:**
 * Lucrul cu documente Excel
 * Interfata de lucru
@@ -33,6 +34,7 @@ Scopul acestui curs este de a ajuta utilizatoriii sa dobandeasca cunostinte de n
 * Sortare si filtrare
 * Functii esentiale
 * Alte functionalitati si instrumente 
+
 
 **PowerPoint:**
 * Lucrul cu documente PowePoint
@@ -46,6 +48,7 @@ Scopul acestui curs este de a ajuta utilizatoriii sa dobandeasca cunostinte de n
 * Modul prezentare
 * Exportare prezentare in diferite formate
 * Alte functionalitati si instrumente utile
+
 
 **Outlook:**
 * Email

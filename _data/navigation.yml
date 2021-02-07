@@ -18,9 +18,7 @@ cursuri-nav:
         url: /cursuri/word/
       - title: "Excel - Avansat"
         url: /cursuri/excel/
-  - title: "Alte informatii"
+  - title: "Informatii utile"
     children:
       - title: "Cum se desfasoara un curs"
-        url: /
-      - title: "Cum ma pregatesc pentru un curs"
         url: /

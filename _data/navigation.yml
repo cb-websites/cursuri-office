@@ -13,11 +13,11 @@ cursuri-nav:
   - title: "Cursuri"
     children:
       - title: "MS Office"
-        url: /
+        url: /cursuri/office/
       - title: "Word - Avansat"
-        url: /
+        url: /cursuri/word/
       - title: "Excel - Avansat"
-        url: /
+        url: /cursuri/excel/
   - title: "Alte informatii"
     children:
       - title: "Cum se desfasoara un curs"

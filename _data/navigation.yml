@@ -20,5 +20,7 @@ cursuri-nav:
         url: /cursuri/excel/
   - title: "Informatii utile"
     children:
-      - title: "Cum se organizeaza un curs"
+      - title: "Cum sa particip la un curs"
         url: /info/
+      - title: "Cum se organizeaza un curs"
+        url: /curs/

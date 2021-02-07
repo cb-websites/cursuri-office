@@ -19,4 +19,4 @@ Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat i
 * Formule
 * Securitatea documentului 
 
-Durata acestui curs este de aproximativ 2 ore si include atat parte de prezentare practica, cat si exercitii. 
+Durata acestui curs este de aproximativ 3 ore si include atat parte de prezentare practica, cat si exercitii. 

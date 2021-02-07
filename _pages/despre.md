@@ -17,5 +17,5 @@ O parte importanta din cariera mea de consultant, am petrecut-o ca si responsabi
 
 In ultimii ani, m-am implicat mult si pe partea de traning. Am realizat si sustinut cursuri atat pentru aplicatii proprietare cat si pentru tehnologii si pachete software cunoscute cum ar fi Microsoft Office,Visual Basic, Python, Big Data, Kubernetes si tehnologii cloud in romana, engleza si italiana. 
 
-Daca aveti intrebari despre mine, avreti nevoie de un sfat, sau pur si simplu doriti sa ma salutati, va rog sa completati formularul din pagina de [contact](/contact/).
+Daca aveti intrebari despre mine, avreti nevoie de un sfat, sau pur si simplu doriti sa ma salutati, va rog sa completati formularul din pagina de [contact](/pages/contact/).
 

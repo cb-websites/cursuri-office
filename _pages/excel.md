@@ -15,6 +15,7 @@ Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat i
 * Chart & pivot chart
 * Functia VLOOKUP (cautare verticala)
 * Securitatea documentului
+
 Durata acestui curs este de aproximativ 3 ore si include atat parte de prezentare practica, cat si exercitii. 
 
 
@@ -30,6 +31,7 @@ Scopul acestui curs este de a ajuta utilizatorii se cladeasca pe ce au invatat i
 * Functii pentru cautare
 * Functii web
 * Functii definite de utilizator
+
 Durata acestui curs depinde exigentele beneficiarilor si se stabileste in prealabil cu acestia.
 
 
@@ -37,6 +39,7 @@ Durata acestui curs depinde exigentele beneficiarilor si se stabileste in preala
 **EXCEL AVANSAT - VBA**
 
 Acest curs se adreseaza persoanelor care vor sa invete cum sa dezvolte functionalitati interactive, automatizari sau chiar adevarate aplicatii informatice (statistice, contabile, etc.) bazate pe Excel, folosind Visual Basic for Applications (VBA), limbajul de programare care vine inclus cu pachetul Office. 
+
 Durata depinde de obiectivele de invatare ale fiecarui cursant deci se va stabili de comun acord cu acesta.
 
 
@@ -44,4 +47,5 @@ Durata depinde de obiectivele de invatare ale fiecarui cursant deci se va stabil
 **WORKSHOP EXCEL**
 
 La cerere putrem organiza workshop-uri virtuale, niste intalniri in cadrul carora ne vom aprofuna anumite subiecte practice specifice, de exemplu: cum se creaza o factura, crearea unui formular interactiv, crearea unei aplicatii specifice, etc.
+
 Durata depinde de obiectivele de invatare ale fiecarui cursant deci se va stabili de comun acord cu acesta.

@@ -20,7 +20,12 @@ cursuri-nav:
         url: /cursuri/excel/
   - title: "Alte informatii"
     children:
+<<<<<<< HEAD
       - title: "Cum sa particip la un curs"
         url: /cursuri/curs/
       - title: "Informatii utile"
         url: /cursuri/info/
+=======
+      - title: "Cum se desfasoara un curs"
+        url: /
+>>>>>>> parent of 7df45946... Update navigation.yml
